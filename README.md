@@ -1,4 +1,4 @@
-**Update**: This version is a total rewrite of the client side. Leaner and easier to read. 
+**Update**: This project is no longer maintained and I don't have time to add features.
 
 # Introduction
 
