@@ -17,7 +17,7 @@ $(document).ready( function(){
 	
 	$('#btnViewTree').click( function(){
 		var treeID = $('#treeID').attr( 'value' );
-		viewer = window.open( 'showTree.html?' + treeID, 'viewerWindow' );
+		viewer = window.open( 'index.html?' + treeID, 'viewerWindow' );
 	});
 	
 	$('#revisions').change( function(){
